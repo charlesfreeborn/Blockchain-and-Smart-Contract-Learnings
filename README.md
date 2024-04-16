@@ -1,2 +1,2 @@
 # Blockchain-and-Smart-Contract-Learnings
-My notes on blockchain learnings and smart contract learnings
+This is a repo to document my learnings on blockchain and smart contracts.
